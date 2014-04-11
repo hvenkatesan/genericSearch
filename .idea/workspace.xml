@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85493bdb-286a-4556-96be-6425f5c8719c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="85493bdb-286a-4556-96be-6425f5c8719c" name="Default" comment="" />
     <ignored path="genericSearch.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
     <file path="/Dummy.txt" changelist="85493bdb-286a-4556-96be-6425f5c8719c" time="1397248583242" ignored="false" />
+    <file path="$PROJECT_DIR$/web-app/WEB-INF/applicationContext.xml" changelist="85493bdb-286a-4556-96be-6425f5c8719c" time="1397248869982" ignored="false" />
+    <file path="$PROJECT_DIR$/web-app/WEB-INF/tld/spring.tld" changelist="85493bdb-286a-4556-96be-6425f5c8719c" time="1397248869982" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="85493bdb-286a-4556-96be-6425f5c8719c" time="1397248869982" ignored="false" />
+    <file path="$PROJECT_DIR$/grails-app/conf/Config.groovy" changelist="85493bdb-286a-4556-96be-6425f5c8719c" time="1397248869982" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <file leaf-file-name="BootStrap.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="22" selection-start="88" selection-end="88" vertical-scroll-proportion="0.14116251">
+            <state line="7" column="18" selection-start="88" selection-end="88" vertical-scroll-proportion="0.13476783">
               <folding />
             </state>
           </provider>
@@ -93,10 +95,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1699" />
-    <option name="y" value="47" />
+    <option name="x" value="1672" />
+    <option name="y" value="-8" />
     <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -325,8 +327,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1699" y="47" width="1696" height="1026" extended-state="0" />
-    <editor active="false" />
+    <frame x="1672" y="-8" width="1696" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -424,7 +426,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="22" selection-start="88" selection-end="88" vertical-scroll-proportion="0.14116251">
+        <state line="7" column="18" selection-start="88" selection-end="88" vertical-scroll-proportion="0.13476783">
           <folding />
         </state>
       </provider>
