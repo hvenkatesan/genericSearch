@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GenericSearch.iml" filepath="$PROJECT_DIR$/GenericSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericSearch-grailsPlugins.iml" filepath="$PROJECT_DIR$/GenericSearch-grailsPlugins.iml" />
     </modules>
   </component>
 </project>

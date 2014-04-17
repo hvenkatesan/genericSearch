@@ -42,6 +42,9 @@ grails.project.dependency.resolution = {
         // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes e.g.
 
         // runtime 'mysql:mysql-connector-java:5.1.20'
+
+        build "org.fusesource.jansi:jansi:1.11"
+        runtime "org.ebaysf.web:cors-filter:1.0.1"
     }
 
     plugins {
@@ -58,6 +61,10 @@ grails.project.dependency.resolution = {
 
         runtime ":database-migration:1.2.1"
 
-        compile ':cache:1.0.1'
+        // plugins for the compile step
+
+         compile ":cache:1.1.1"
+        compile ":spring-security-core:2.0-RC2"
+
     }
 }
